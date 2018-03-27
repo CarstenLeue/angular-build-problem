@@ -1,4 +1,6 @@
-# AAngularBuildProblem
+# AngularBuildProblem
+
+Sample project to illustrate problem [10086](https://github.com/angular/angular-cli/issues/10086);
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
